@@ -4,6 +4,8 @@ This repository contains coding assignments, projects and drills I completed at 
 
 If you would like to see a collection of coding examples that demonstrate my skills and problem solving with software development, please visit my portfolio on GitHub.
 
+My Linkedin profile can be found here: [Linkedin].(www.linkedin.com/in/stevenleskin)
+
 ### Courses
 * [C#](./Projects/C_Sharp)
 * [Database & SQL](./Projects/SQL)
