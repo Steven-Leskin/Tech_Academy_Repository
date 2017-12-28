@@ -2,8 +2,6 @@
 
 This repository contains coding assignments, projects and drills I completed at Tech Academy in Portland, Oregon from August to December, 2017.
 
-If you would like to see a collection of coding examples that demonstrate my skills and problem solving with software development, please visit my portfolio on GitHub.
-
 My Linkedin profile can be found here: [Linkedin](http://www.linkedin.com/in/stevenleskin).
 
 ### Courses
