@@ -13,9 +13,9 @@ If you would like to see a collection of coding examples that demonstrate my ski
 
 ### Other Courses Taken at The Tech Academy
 
-*Computer Basics
-*Overview of Software Development
-*Visual Studio
-*Version Control & GitHub
-*Project Management
-*Job Placement
+* Computer Basics
+* Overview of Software Development
+* Visual Studio
+* Version Control & GitHub
+* Project Management
+* Job Placement
