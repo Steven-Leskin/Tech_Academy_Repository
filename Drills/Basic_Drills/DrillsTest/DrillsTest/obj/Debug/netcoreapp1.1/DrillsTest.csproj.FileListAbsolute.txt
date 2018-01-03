@@ -1,0 +1,11 @@
+C:\Users\Steven\source\repos\DrillsTest\DrillsTest\bin\Debug\netcoreapp1.1\DrillsTest.deps.json
+C:\Users\Steven\source\repos\DrillsTest\DrillsTest\bin\Debug\netcoreapp1.1\DrillsTest.runtimeconfig.json
+C:\Users\Steven\source\repos\DrillsTest\DrillsTest\bin\Debug\netcoreapp1.1\DrillsTest.runtimeconfig.dev.json
+C:\Users\Steven\source\repos\DrillsTest\DrillsTest\bin\Debug\netcoreapp1.1\DrillsTest.dll
+C:\Users\Steven\source\repos\DrillsTest\DrillsTest\bin\Debug\netcoreapp1.1\DrillsTest.pdb
+C:\Users\Steven\source\repos\DrillsTest\DrillsTest\obj\Debug\netcoreapp1.1\DrillsTest.csprojResolveAssemblyReference.cache
+C:\Users\Steven\source\repos\DrillsTest\DrillsTest\obj\Debug\netcoreapp1.1\DrillsTest.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\DrillsTest\DrillsTest\obj\Debug\netcoreapp1.1\DrillsTest.AssemblyInfo.cs
+C:\Users\Steven\source\repos\DrillsTest\DrillsTest\obj\Debug\netcoreapp1.1\DrillsTest.dll
+C:\Users\Steven\source\repos\DrillsTest\DrillsTest\obj\Debug\netcoreapp1.1\DrillsTest.pdb
+C:\Users\Steven\source\repos\DrillsTest\DrillsTest\obj\Debug\netcoreapp1.1\DrillsTest.AssemblyInfoInputs.cache
