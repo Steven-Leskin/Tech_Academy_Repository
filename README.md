@@ -11,6 +11,10 @@ My Linkedin profile can be found here: [Linkedin](http://www.linkedin.com/in/ste
 * [JavaScript](./Projects/HTML)
 * [Python](./Projects/)
 
+### C# Drills
+Drills are from www.W3Resources.com
+[Basic C# Drill](./drills/Basic_Drills)
+
 ### Other Courses Taken at The Tech Academy
 
 * Computer Basics
