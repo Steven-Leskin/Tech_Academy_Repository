@@ -1,0 +1,14 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Statements\Drills_For_Statements\bin\Debug\Drills_For_Statements.exe.config
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Statements\Drills_For_Statements\bin\Debug\Drills_For_Statements.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Statements\Drills_For_Statements\bin\Debug\Drills_For_Statements.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Statements\Drills_For_Statements\obj\Debug\Drills_For_Statements.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Statements\Drills_For_Statements\obj\Debug\Drills_For_Statements.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Statements\Drills_For_Statements\obj\Debug\Drills_For_Statements.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Statements\Drills_For_Statements\obj\Debug\Drills_For_Statements.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Loop_Statements\Drills_For_Statements\bin\Debug\Drills_For_Statements.exe.config
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Loop_Statements\Drills_For_Statements\bin\Debug\Drills_For_Statements.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Loop_Statements\Drills_For_Statements\bin\Debug\Drills_For_Statements.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Loop_Statements\Drills_For_Statements\obj\Debug\Drills_For_Statements.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Loop_Statements\Drills_For_Statements\obj\Debug\Drills_For_Statements.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Loop_Statements\Drills_For_Statements\obj\Debug\Drills_For_Statements.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_For_Loop_Statements\Drills_For_Statements\obj\Debug\Drills_For_Statements.pdb
