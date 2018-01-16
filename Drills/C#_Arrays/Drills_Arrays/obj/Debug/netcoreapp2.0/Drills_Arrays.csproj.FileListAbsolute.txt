@@ -1,0 +1,11 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_Arrays\Drills_Arrays\bin\Debug\netcoreapp2.0\Drills_Arrays.deps.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_Arrays\Drills_Arrays\bin\Debug\netcoreapp2.0\Drills_Arrays.runtimeconfig.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_Arrays\Drills_Arrays\bin\Debug\netcoreapp2.0\Drills_Arrays.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_Arrays\Drills_Arrays\bin\Debug\netcoreapp2.0\Drills_Arrays.dll
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_Arrays\Drills_Arrays\bin\Debug\netcoreapp2.0\Drills_Arrays.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_Arrays\Drills_Arrays\obj\Debug\netcoreapp2.0\Drills_Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_Arrays\Drills_Arrays\obj\Debug\netcoreapp2.0\Drills_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_Arrays\Drills_Arrays\obj\Debug\netcoreapp2.0\Drills_Arrays.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_Arrays\Drills_Arrays\obj\Debug\netcoreapp2.0\Drills_Arrays.AssemblyInfo.cs
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_Arrays\Drills_Arrays\obj\Debug\netcoreapp2.0\Drills_Arrays.dll
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_Arrays\Drills_Arrays\obj\Debug\netcoreapp2.0\Drills_Arrays.pdb
