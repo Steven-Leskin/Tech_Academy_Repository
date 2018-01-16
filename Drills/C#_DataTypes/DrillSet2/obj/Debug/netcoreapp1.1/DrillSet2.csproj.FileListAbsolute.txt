@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\DrillSet2\DrillSet2\bin\Debug\netcoreapp1.1\DrillSet2.deps.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\DrillSet2\DrillSet2\bin\Debug\netcoreapp1.1\DrillSet2.runtimeconfig.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\DrillSet2\DrillSet2\bin\Debug\netcoreapp1.1\DrillSet2.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\DrillSet2\DrillSet2\bin\Debug\netcoreapp1.1\DrillSet2.dll
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\DrillSet2\DrillSet2\bin\Debug\netcoreapp1.1\DrillSet2.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\DrillSet2\DrillSet2\obj\Debug\netcoreapp1.1\DrillSet2.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\DrillSet2\DrillSet2\obj\Debug\netcoreapp1.1\DrillSet2.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\DrillSet2\DrillSet2\obj\Debug\netcoreapp1.1\DrillSet2.AssemblyInfo.cs
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\DrillSet2\DrillSet2\obj\Debug\netcoreapp1.1\DrillSet2.dll
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\DrillSet2\DrillSet2\obj\Debug\netcoreapp1.1\DrillSet2.pdb
