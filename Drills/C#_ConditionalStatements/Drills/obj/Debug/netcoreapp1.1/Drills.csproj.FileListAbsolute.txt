@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_ Conditiontional_Statements\Drills\bin\Debug\netcoreapp1.1\Drills.deps.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_ Conditiontional_Statements\Drills\bin\Debug\netcoreapp1.1\Drills.runtimeconfig.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_ Conditiontional_Statements\Drills\bin\Debug\netcoreapp1.1\Drills.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_ Conditiontional_Statements\Drills\bin\Debug\netcoreapp1.1\Drills.dll
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_ Conditiontional_Statements\Drills\bin\Debug\netcoreapp1.1\Drills.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_ Conditiontional_Statements\Drills\obj\Debug\netcoreapp1.1\Drills.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_ Conditiontional_Statements\Drills\obj\Debug\netcoreapp1.1\Drills.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_ Conditiontional_Statements\Drills\obj\Debug\netcoreapp1.1\Drills.AssemblyInfo.cs
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_ Conditiontional_Statements\Drills\obj\Debug\netcoreapp1.1\Drills.dll
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Drills_ Conditiontional_Statements\Drills\obj\Debug\netcoreapp1.1\Drills.pdb
