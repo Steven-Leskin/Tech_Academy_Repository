@@ -1,0 +1,11 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Functions\Functions\bin\Debug\netcoreapp2.0\Functions.deps.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Functions\Functions\bin\Debug\netcoreapp2.0\Functions.runtimeconfig.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Functions\Functions\bin\Debug\netcoreapp2.0\Functions.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Functions\Functions\bin\Debug\netcoreapp2.0\Functions.dll
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Functions\Functions\bin\Debug\netcoreapp2.0\Functions.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Functions\Functions\obj\Debug\netcoreapp2.0\Functions.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Functions\Functions\obj\Debug\netcoreapp2.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Functions\Functions\obj\Debug\netcoreapp2.0\Functions.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Functions\Functions\obj\Debug\netcoreapp2.0\Functions.AssemblyInfo.cs
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Functions\Functions\obj\Debug\netcoreapp2.0\Functions.dll
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Functions\Functions\obj\Debug\netcoreapp2.0\Functions.pdb
