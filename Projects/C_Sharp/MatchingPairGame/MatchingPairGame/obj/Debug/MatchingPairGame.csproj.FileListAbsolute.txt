@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\MatchingPairGame\MatchingPairGame\bin\Debug\MatchingPairGame.exe.config
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\MatchingPairGame\MatchingPairGame\bin\Debug\MatchingPairGame.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\MatchingPairGame\MatchingPairGame\bin\Debug\MatchingPairGame.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.Form1.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.Properties.Resources.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.pdb
