@@ -1,0 +1,9 @@
+At the Tech Academy, we did dozens of projects in C#. The complexity of the projects ranged from the very basic to the overly complex. The overly complex projects required significant instructor assistance. And, for that reason they are not posted here. The two programs posted here, Epic Spies and Pizza Menu, were both completed independently.
+
+I completed additional projects outside of the curriculm to further my understanding of C3. Those, I posted here. I found these projects posted on line and worked them on my own.
+
+MediaMusicPlayer is a simple MP3 player. There were several different ways to do this. Ultimately, I found a media player in the VS toolbox and then separately coded the controls. 
+
+MatchingPairGame is a matching game. It involves matching like symbols until all the pairs of symbols in the grid have been simultaneously selected. The symbols were randomly generated for each new game. There were two small challenges: the first was to actually set up the grid. After selecting "forms" in VS, that became straightforward. The second challenge was generating the random selection for each new game. That was done with the random method. 
+
+
