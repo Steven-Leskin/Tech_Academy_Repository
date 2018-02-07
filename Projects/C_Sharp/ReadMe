@@ -10,3 +10,6 @@ Whatever you do, whatever you are thinking...do not play the Maze. You will not 
 
 The maze project tested my creativity. It looks like a simple game, and it is, after you get over the first creative hurdle. The interior walls are simply labels with a mouseevent set to "enter". After that, a sound player is used to indicate the cursor has been moved back to start.
 
+Screensaver is screenshots from a fun, happy YouTube video set to the Pharel Williams song, Happy. The video can be found here https://www.youtube.com/watch?v=sGrHwBlf-7M. 
+
+This project was combined a for loop, timer and screensaver to shot the images on the screen. There was a random method to govern the placement. One drawback is that the random method does not change afte interval period so the images end up back int the same spot and the same images are choosen.
