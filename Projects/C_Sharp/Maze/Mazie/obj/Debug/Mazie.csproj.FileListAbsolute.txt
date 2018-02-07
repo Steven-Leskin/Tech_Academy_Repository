@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\Mazie\Mazie\bin\Debug\Mazie.exe.config
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\Mazie\Mazie\bin\Debug\Mazie.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\Mazie\Mazie\bin\Debug\Mazie.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\Mazie\Mazie\obj\Debug\Mazie.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\Mazie\Mazie\obj\Debug\Mazie.Form1.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\Mazie\Mazie\obj\Debug\Mazie.Properties.Resources.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\Mazie\Mazie\obj\Debug\Mazie.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\Mazie\Mazie\obj\Debug\Mazie.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\Mazie\Mazie\obj\Debug\Mazie.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\Mazie\Mazie\obj\Debug\Mazie.pdb

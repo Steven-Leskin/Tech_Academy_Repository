@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mazie", "Mazie\Mazie.csproj", "{2F278F70-020A-4ED7-AE96-0EDC7BE3EA5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F278F70-020A-4ED7-AE96-0EDC7BE3EA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F278F70-020A-4ED7-AE96-0EDC7BE3EA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F278F70-020A-4ED7-AE96-0EDC7BE3EA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F278F70-020A-4ED7-AE96-0EDC7BE3EA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7541CE14-3507-48FA-829F-0E021A25F907}
+	EndGlobalSection
+EndGlobal
