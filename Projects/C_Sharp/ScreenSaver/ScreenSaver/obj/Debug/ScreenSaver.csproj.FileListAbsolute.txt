@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.FormScreenSaver.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csprojResolveAssemblyReference.cache
