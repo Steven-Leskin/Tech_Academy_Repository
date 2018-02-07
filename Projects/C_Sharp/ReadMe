@@ -6,4 +6,7 @@ MediaMusicPlayer is a simple MP3 player. There were several different ways to do
 
 MatchingPairGame is a matching game. It involves matching like symbols until all the pairs of symbols in the grid have been simultaneously selected. The symbols were randomly generated for each new game. There were two small challenges: the first was to actually set up the grid. After selecting "forms" in VS, that became straightforward. The second challenge was generating the random selection for each new game. That was done with the random method. 
 
+Whatever you do, whatever you are thinking...do not play the Maze. You will not get any more work done for rest of the weekend. You will not feed your dog. 
+
+The maze project tested my creativity. It looks like a simple game, and it is, after you get over the first creative hurdle. The interior walls are simply labels with a mouseevent set to "enter". After that, a sound player is used to indicate the cursor has been moved back to start.
 
