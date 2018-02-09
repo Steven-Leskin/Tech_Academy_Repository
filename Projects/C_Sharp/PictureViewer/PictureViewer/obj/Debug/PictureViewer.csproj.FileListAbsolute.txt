@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
