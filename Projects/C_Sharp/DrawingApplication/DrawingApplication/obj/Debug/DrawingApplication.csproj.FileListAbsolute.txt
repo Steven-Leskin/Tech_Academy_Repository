@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DrawingApplication\DrawingApplication\bin\Debug\DrawingApplication.exe.config
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DrawingApplication\DrawingApplication\bin\Debug\DrawingApplication.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DrawingApplication\DrawingApplication\bin\Debug\DrawingApplication.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.PaintCanvas.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.Properties.Resources.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.pdb
