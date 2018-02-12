@@ -1,0 +1,9 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Currency_Converter.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
