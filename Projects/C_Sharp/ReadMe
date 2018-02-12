@@ -1,17 +1,47 @@
-At the Tech Academy, we did dozens of projects in C#. The complexity of the projects ranged from the very basic to the overly complex. The overly complex projects required significant instructor assistance. And, for that reason they are not posted here. The two programs posted here, Epic Spies and Pizza Menu, were both completed independently.
+At the Tech Academy, we did dozens of projects in C#. The complexity of the projects ranged from the very basic to the overly complex._ 
 
-I completed additional projects outside of the curriculm to further my understanding of C3. Those, I posted here. I found these projects posted on line and worked them on my own.
+The overly complex projects required significant instructor assistance. And, for that reason they are not posted here. The two 
 
-MediaMusicPlayer is a simple MP3 player. There were several different ways to do this. Ultimately, I found a media player in the VS toolbox and then separately coded the controls. 
+programs posted here, Epic Spies and Pizza Menu, were both completed independently.
 
-MatchingPairGame is a matching game. It involves matching like symbols until all the pairs of symbols in the grid have been simultaneously selected. The symbols were randomly generated for each new game. There were two small challenges: the first was to actually set up the grid. After selecting "forms" in VS, that became straightforward. The second challenge was generating the random selection for each new game. That was done with the random method. 
+I completed additional projects outside of the curriculm to further my understanding of C_Sharp. Those, I posted here. I found these projects 
 
-Whatever you do, whatever you are thinking...do not play the Maze. You will not get any more work done for rest of the weekend. You will not feed your dog. 
+posted on line and worked them on my own.
 
-The Maze project tested my creativity. It looks like a simple game, and it is, after you get over the first creative hurdle. The interior walls are simply labels with a mouseevent set to "enter". After that, a sound player is used to indicate the cursor has been moved back to start.
+**MediaMusicPlayer** is a simple MP3 player. There were several different ways to do this. Ultimately, I found a media player in the VS 
 
-Screensaver is screenshots from a fun, happy YouTube video set to the Pharel Williams song, Happy. The video can be found here https://www.youtube.com/watch?v=sGrHwBlf-7M. 
+toolbox and then separately coded the controls. 
 
-This project was combined a for loop, timer and screensaver to shot the images on the screen. There was a random method to govern the placement. One drawback is that the random method does not change afte interval period so the images end up back int the same spot and the same images are choosen.
+**MatchingPairGame** is a matching game. It involves matching like symbols until all the pairs of symbols in the grid have been 
 
-Currency Converter was a clever little project which turned out to be pretty simple. Before I started, I looked up API's for a google currency converter. Stack OverFlow had several querries. There were also multiple YouTube videos to complete this project. Since I have not had experience using an API, I was excited to work on this project to learn something new.  I created the form, and then searched the VS toolbox, I found a web browser window and placed that in my form. At that point, it was easy enough to enter the URL into web brower properties and the project captured the Google currency converter. It turns out, I did not need to use a Google API.
+simultaneously selected. The symbols were randomly generated for each new game. There were two small challenges: the first was 
+
+to actually set up the grid. After selecting "forms" in VS, that became straightforward. The second challenge was generating the random 
+
+selection for each new game. That was done with the random method. 
+
+Whatever you do, whatever you are thinking...do not play the **Maze**. You will not get any more work done for rest of the weekend. You will 
+
+not feed your dog. The Maze project tested my creativity. It looks like a simple game, and it is, after you get over the first 
+
+creative hurdle. The interior walls are simply labels with a mouseevent set to "enter". After that, a sound player is used to indicate 
+
+the cursor has been moved back to start.
+
+**Screensaver** is screenshots from a fun, happy YouTube video set to the Pharel Williams song, *Happy*. The video can be found here 
+
+(https://www.youtube.com/watch?v=sGrHwBlf-7M). This project was combined a for loop, timer and screensaver to shot the images on the 
+
+screen. There was a random method to govern the placement. One drawback is that the random method does not change afte interval period 
+
+so the images end up back int the same spot and the same images are choosen.
+
+**Currency Converter** was a clever little project which turned out to be pretty simple. Before I started, I looked up API's for a Google 
+
+currency converter. Stack OverFlow had several querries. There were also multiple YouTube videos to complete this project. Since I have 
+
+not had experience using an API, I was excited to work on this project to learn something new.  I created the form, and then searched 
+
+the VS toolbox, I found a web browser window and placed that in my form. At that point, it was easy enough to enter the URL into web 
+
+brower properties and the project captured the Google currency converter. It turns out, I did not need to use a Google API.
