@@ -8,8 +8,10 @@ MatchingPairGame is a matching game. It involves matching like symbols until all
 
 Whatever you do, whatever you are thinking...do not play the Maze. You will not get any more work done for rest of the weekend. You will not feed your dog. 
 
-The maze project tested my creativity. It looks like a simple game, and it is, after you get over the first creative hurdle. The interior walls are simply labels with a mouseevent set to "enter". After that, a sound player is used to indicate the cursor has been moved back to start.
+The Maze project tested my creativity. It looks like a simple game, and it is, after you get over the first creative hurdle. The interior walls are simply labels with a mouseevent set to "enter". After that, a sound player is used to indicate the cursor has been moved back to start.
 
 Screensaver is screenshots from a fun, happy YouTube video set to the Pharel Williams song, Happy. The video can be found here https://www.youtube.com/watch?v=sGrHwBlf-7M. 
 
 This project was combined a for loop, timer and screensaver to shot the images on the screen. There was a random method to govern the placement. One drawback is that the random method does not change afte interval period so the images end up back int the same spot and the same images are choosen.
+
+Currency Converter was a clever little project which turned out to be pretty simple. Before I started, I looked up API's for a google currency converter. Stack OverFlow had several querries. There were also multiple YouTube videos to complete this project. Since I have not had experience using an API, I was excited to work on this project to learn something new.  I created the form, and then searched the VS toolbox, I found a web browser window and placed that in my form. At that point, it was easy enough to enter the URL into web brower properties and the project captured the Google currency converter. It turns out, I did not need to use a Google API.
