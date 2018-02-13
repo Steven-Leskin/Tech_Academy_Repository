@@ -36,12 +36,18 @@ screen. There was a random method to govern the placement. One drawback is that 
 
 so the images end up back int the same spot and the same images are choosen.
 
-**Currency Converter** was a clever little project which turned out to be pretty simple. Before I started, I looked up API's for a Google 
+**Currency Converter** was a clever little project which turned out to be pretty simple. Before I started, I looked up API's for a 
 
-currency converter. Stack OverFlow had several querries. There were also multiple YouTube videos to complete this project. Since I have 
+Google currency converter. Stack OverFlow had several querries. There were also multiple YouTube videos to complete this project. Since 
 
-not had experience using an API, I was excited to work on this project to learn something new.  I created the form, and then searched 
+I have not had experience using an API, I was excited to work on this project to learn something new.  I created the form, and then 
 
-the VS toolbox, I found a web browser window and placed that in my form. At that point, it was easy enough to enter the URL into web 
+searched the VS toolbox, I found a web browser window and placed that in my form. At that point, it was easy enough to enter the URL 
 
-brower properties and the project captured the Google currency converter. It turns out, I did not need to use a Google API.
+into web brower properties and the project captured the Google currency converter. It turns out, I did not need to use a Google API.
+
+**Custom Web Browser** built on the prior application's use of the web brower tool. Here, the coding issue was to have the web browser 
+
+tool read the combo box. This was accomplished using a navigation method bassing in the web broswer as an arugment. 
+
+ 
