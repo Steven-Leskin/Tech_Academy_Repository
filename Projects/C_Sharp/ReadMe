@@ -48,6 +48,12 @@ into web brower properties and the project captured the Google currency converte
 
 **Custom Web Browser** built on the prior application's use of the web brower tool. Here, the coding issue was to have the web browser 
 
-tool read the combo box. This was accomplished using a navigation method bassing in the web broswer as an arugment. 
+tool read the combo box. This was accomplished using a navigation method based in the web broswer as an arugment. 
+
+** The Calculator ** There are numerous little C# projects on line to create a caluclator. When I thought about laying on the project, I 
+
+was not sure how to capture the value of the buttons without using something  like a conditional statement. C# has a build in Button method. 
+
+After I learned about that, the project was straightforward to complete using a switch statement to invoke the chosen operation.
 
  
