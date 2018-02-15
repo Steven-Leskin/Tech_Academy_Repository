@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DigitalClockII\DigitalClockII\bin\Debug\DigitalClockII.exe.config
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DigitalClockII\DigitalClockII\bin\Debug\DigitalClockII.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DigitalClockII\DigitalClockII\bin\Debug\DigitalClockII.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DigitalClockII\DigitalClockII\obj\Debug\DigitalClockII.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DigitalClockII\DigitalClockII\obj\Debug\DigitalClockII.Form1.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DigitalClockII\DigitalClockII\obj\Debug\DigitalClockII.Properties.Resources.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DigitalClockII\DigitalClockII\obj\Debug\DigitalClockII.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DigitalClockII\DigitalClockII\obj\Debug\DigitalClockII.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DigitalClockII\DigitalClockII\obj\Debug\DigitalClockII.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\DigitalClockII\DigitalClockII\obj\Debug\DigitalClockII.pdb
