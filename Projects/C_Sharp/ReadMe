@@ -60,4 +60,7 @@ After I learned about that, the project was straightforward to complete using a 
 
 method.
 
+**Digital Clock II** was similar to ** Digital Clock** but the second update at the second interval. This was done by using the timer tool
+
+creating a method that update once a second.
  
