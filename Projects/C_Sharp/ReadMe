@@ -64,3 +64,6 @@ method.
 
 creating a method that update once a second.
  
+ **LogIn** connects to a SQL database. The "data" button gives sample data to input. 
+ 
+ 
