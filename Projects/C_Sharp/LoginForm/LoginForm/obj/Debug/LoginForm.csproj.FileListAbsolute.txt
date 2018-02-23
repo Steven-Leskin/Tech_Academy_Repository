@@ -1,0 +1,12 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\LoginForm\LoginForm\obj\Debug\LoginForm.loginFRM.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\LoginForm\LoginForm\obj\Debug\LoginForm.LogIn.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\LoginForm\LoginForm\obj\Debug\LoginForm.LogOut.resources
