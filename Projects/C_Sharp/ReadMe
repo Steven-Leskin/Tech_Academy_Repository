@@ -64,6 +64,9 @@ method.
 
 creating a method that update once a second.
  
- **LogIn** connects to a SQL database. The "data" button gives sample data to input. 
+ **LogIn** connects to an SQL database. The "data" button gives sample data to input into the User Name and Password. 
+ 
+ **Custom Map** querries a Google Map. The app creates an instance of Stringbuilder and navigates to the URL field in the web browser tool. 
+ 
  
  
