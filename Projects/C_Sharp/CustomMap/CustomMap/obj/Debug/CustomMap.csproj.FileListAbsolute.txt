@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CustomMap\CustomMap\bin\Debug\CustomMap.exe.config
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CustomMap\CustomMap\bin\Debug\CustomMap.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CustomMap\CustomMap\bin\Debug\CustomMap.pdb
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CustomMap\CustomMap\obj\Debug\CustomMap.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CustomMap\CustomMap\obj\Debug\CustomMap.Form1.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CustomMap\CustomMap\obj\Debug\CustomMap.Properties.Resources.resources
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CustomMap\CustomMap\obj\Debug\CustomMap.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CustomMap\CustomMap\obj\Debug\CustomMap.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CustomMap\CustomMap\obj\Debug\CustomMap.exe
+C:\Users\Steven\Desktop\Desktop\Tech Academy\C#\Udemy_Projects\CustomMap\CustomMap\obj\Debug\CustomMap.pdb
