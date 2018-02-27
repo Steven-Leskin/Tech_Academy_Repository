@@ -68,5 +68,5 @@ creating a method that update once a second.
  
  **Custom Map** querries a Google Map. The app creates an instance of Stringbuilder and navigates to the URL field in the web browser tool. 
  
- 
+ **Image Database** This was another project using SQL to create a database in Virtual Studio. 
  
